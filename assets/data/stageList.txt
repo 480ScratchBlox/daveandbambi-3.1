@@ -1,0 +1,8 @@
+stage
+house
+house-night
+house-sunset
+red-void
+farm
+farm-night
+farm-sunset
